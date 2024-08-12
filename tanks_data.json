@@ -1,14 +1,31 @@
 [
     {
         "name":"ISU-152",
-        "reloadTime":17
+        "reloadTime":17,
+        "features":[
+            "frontLEDs",
+            "engine"
+        ]
     },
     {
         "name":"strv103C",
-        "reloadTime":6.5
+        "reloadTime":6.5,
+        "features":[
+            "frontLEDs",
+            "backLEDs",
+            "laser",
+            "siegeMode"
+        ]
     },
     {
-        "name":"Leopard 1",
-        "reloadTime":7
+        "name":"Leopard2",
+        "reloadTime":7,
+        "features":[
+            "frontLEDs",
+            "backLEDs",
+            "laser",
+            "turretLED",
+            "engine"
+        ]
     }
 ]
