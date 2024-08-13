@@ -1,6 +1,7 @@
 [
     {
         "name":"ISU-152",
+        "displayName": "ISU-152",
         "reloadTime":17,
         "features":[
             "frontLEDs",
@@ -9,6 +10,7 @@
     },
     {
         "name":"strv103C",
+        "displayName": "Strv 103C",
         "reloadTime":6.5,
         "features":[
             "frontLEDs",
@@ -19,6 +21,7 @@
     },
     {
         "name":"Leopard2",
+        "displayName": "Leopard 2",
         "reloadTime":7,
         "features":[
             "frontLEDs",
