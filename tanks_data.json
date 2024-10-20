@@ -11,7 +11,7 @@
     {
         "name":"strv103C",
         "displayName": "Strv 103C",
-        "reloadTime":6.5,
+        "reloadTime":5.4,
         "features":[
             "frontLEDs",
             "backLEDs",
