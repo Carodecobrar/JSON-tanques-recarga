@@ -30,5 +30,13 @@
             "turretLED",
             "engine"
         ]
+    },
+    {
+        "name":"KV-2",
+        "displayName": "KV-2",
+        "reloadTime":20,
+        "features":[
+            "frontLEDs"
+        ]
     }
 ]
