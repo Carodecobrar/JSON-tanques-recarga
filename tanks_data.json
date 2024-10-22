@@ -14,7 +14,6 @@
         "displayName": "Strv 103C",
         "reloadTime":5.4,
         "hasTurret": false,
-        "aimsWithSuspension": true,
         "features":[
             "frontLEDs",
             "backLEDs",
