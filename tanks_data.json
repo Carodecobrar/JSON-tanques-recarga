@@ -3,6 +3,7 @@
         "name":"ISU-152",
         "displayName": "ISU-152",
         "reloadTime":17,
+        "hasTurret": false,
         "features":[
             "frontLEDs",
             "engine"
@@ -12,6 +13,8 @@
         "name":"strv103C",
         "displayName": "Strv 103C",
         "reloadTime":5.4,
+        "hasTurret": false,
+        "aimsWithSuspension": true,
         "features":[
             "frontLEDs",
             "backLEDs",
@@ -23,6 +26,7 @@
         "name":"Leopard2",
         "displayName": "Leopard 2",
         "reloadTime":7,
+        "hasTurret": true,
         "features":[
             "frontLEDs",
             "backLEDs",
@@ -35,6 +39,7 @@
         "name":"KV-2",
         "displayName": "KV-2",
         "reloadTime":20,
+        "hasTurret": true,
         "features":[
             "frontLEDs"
         ]
