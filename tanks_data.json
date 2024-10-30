@@ -40,7 +40,8 @@
         "reloadTime":20,
         "hasTurret": true,
         "features":[
-            "frontLEDs"
+            "frontLEDs",
+            "backLEDs"
         ]
     }
 ]
