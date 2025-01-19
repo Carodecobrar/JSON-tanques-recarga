@@ -7,7 +7,8 @@
         "features":[
             "frontLEDs",
             "engine"
-        ]
+        ],
+        "type": "TD"
     },
     {
         "name":"strv103C",
@@ -19,7 +20,8 @@
             "backLEDs",
             "laser",
             "siegeMode"
-        ]
+        ],
+        "type": "TD"
     },
     {
         "name":"Leopard2",
@@ -32,7 +34,8 @@
             "laser",
             "turretLED",
             "engine"
-        ]
+        ],
+        "type": "HT"
     },
     {
         "name":"KV-2",
@@ -42,6 +45,7 @@
         "features":[
             "frontLEDs",
             "backLEDs"
-        ]
+        ],
+        "type": "HT"
     }
 ]
