@@ -47,5 +47,16 @@
             "backLEDs"
         ],
         "type": "HT"
+    },
+    {
+        "name":"Pz. Kpfw. IV",
+        "displayName": "Pz. Kpfw. IV",
+        "reloadTime":5,
+        "hasTurret": true,
+        "features":[
+            "frontLEDs",
+            "backLEDs"
+        ],
+        "type": "MT"
     }
 ]
