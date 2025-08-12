@@ -35,7 +35,7 @@
             "turretLED",
             "engine"
         ],
-        "type": "HT"
+        "type": "MBT"
     },
     {
         "name":"KV-2",
