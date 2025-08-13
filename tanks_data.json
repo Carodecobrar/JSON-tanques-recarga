@@ -65,7 +65,8 @@
         "reloadTime":0,
         "hasTurret": false,
         "features":[
-            "frontLEDs"
+            "frontLEDs",
+            "backLEDs"
         ],
         "type": "ASSIST"
     }
