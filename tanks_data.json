@@ -58,5 +58,15 @@
             "backLEDs"
         ],
         "type": "MT"
+    },
+    {
+        "name":"CAT D9",
+        "displayName": "Bulldozer D9",
+        "reloadTime":0,
+        "hasTurret": false,
+        "features":[
+            "frontLEDs"
+        ],
+        "type": "ASSIST"
     }
 ]
