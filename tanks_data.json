@@ -69,5 +69,17 @@
             "backLEDs"
         ],
         "type": "ASSIST"
+    },
+    {
+        "name":"Pz. Kpfw. 3.5",
+        "displayName": "Pz. Kpfw. 3.5",
+        "reloadTime":0,
+        "hasTurret": true,
+        "features":[
+            "frontLEDs",
+            "backLEDs",
+            "turretLED"
+        ],
+        "type": "MT"
     }
 ]
