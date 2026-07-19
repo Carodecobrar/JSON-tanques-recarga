@@ -81,5 +81,14 @@
             "turretLED"
         ],
         "type": "MT"
+    },
+    {
+        "name":"Sombrero",
+        "displayName": "Sombrero",
+        "reloadTime":0,
+        "hasTurret": false,
+        "features":[
+        ],
+        "type": "ASSIST"
     }
 ]
