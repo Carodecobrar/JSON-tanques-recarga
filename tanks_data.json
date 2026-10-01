@@ -91,5 +91,14 @@
             "frontLEDs"
         ],
         "type": "ASSIST"
+    },
+    {
+        "name":"Test MG996R",
+        "displayName": "Test MG996R",
+        "reloadTime":0,
+        "hasTurret": false,
+        "features":[
+        ],
+        "type": "ASSIST"
     }
 ]
